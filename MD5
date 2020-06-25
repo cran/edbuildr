@@ -1,7 +1,7 @@
-2baeb1475f9b30dc1e2ffc9bf1d70e3b *DESCRIPTION
+3e2c48531e46fed01718a84bdd1bbc29 *DESCRIPTION
 2446cc19b0510994a7cc5d3b695e6db8 *NAMESPACE
-5b136f5e56784cce72a4a49291233db1 *NEWS.md
-4b10f839231b164132b5718744f69723 *R/bigger_borders.R
+f086036b364b6135817d388e9cf0bc02 *NEWS.md
+dd36271fddae426d05a224f089f72cb1 *R/bigger_borders.R
 df716faaa60afdb3e20ebef200de5444 *R/edbuildr.R
 13ac86839a0b5d381160b7fad7aef71c *R/f33pull.R
 540952ad2a8f0ea2aa3f14cc8624e85e *R/f33pull_raw.R
@@ -13,7 +13,7 @@ e4f89ab44216b54522b7fb377e3927f7 *R/globals.R
 f9154c334463d14c2eef10459fd5c981 *R/round2.R
 d2bbb36ec30482996953f6d5f68368d2 *R/sd_neighbor.R
 9c834a67ce71b3af03a47b72e46e9642 *R/sd_neighbor_xlsx.R
-2c62f7e47451c5549d215dda071739cb *R/sd_table_xlsx.R
+9cb5f67cdc10eb97953aa0a62dba0c14 *R/sd_table_xlsx.R
 f8602ebc771f11592502328468928d54 *README.md
 3fdcd5d6ce0fa4224a08f2840929df37 *man/big_borders.Rd
 fc93dd11cc7a3da49cadb3aac8025321 *man/edbuildr.Rd
